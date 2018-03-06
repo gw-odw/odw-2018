@@ -42,18 +42,19 @@ nearly any operating system.  However, it requires around
 ### Option 2
 
 Run the tutorials remotely using Microsoft Azure:
- * An example is here: https://notebooks.azure.com/losc/libraries/tutorials
+ * https://notebooks.azure.com/losc/libraries/odw-2018 (Requires sign-in with a free Microsoft account)
 
 ### Option 3
 
 Run the tutorials remotely using mybinder:
- * https://mybinder.org/v2/gh/jkanner/test-odw/master
+ * https://mybinder.org/v2/gh/gw-odw/odw-2018/master
 
 ### Option 4
 
 Install the software you need:
  * Suggestions for python installations at https://losc.ligo.org/tutorial00/
+ 
  * These tutorials will require a number of specialized python
-   packages.  For details, see the packages listed in 
+   packages.  For details, see the packages and pip commands listed in 
    [check_setup.ipynb](./check_setup.ipynb)
 
