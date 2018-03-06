@@ -17,7 +17,7 @@ window:
 docker pull pycbc/pycbc-el7:v1.9.2  
 docker run -it -p 8888:8888 --name pycbc_odw pycbc/pycbc-el7:v1.9.2 /bin/bash -l
 pip install gwpy
-git clone https://github.com/jkanner/test-odw.git
+git clone https://github.com/gw-odw/odw-2018.git
 jupyter notebook --ip 0.0.0.0
 ```
 
