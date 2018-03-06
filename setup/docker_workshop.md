@@ -1,5 +1,10 @@
 # Notes to use Docker for Open Data Workshop 1
 
+### Video Help
+
+For a video guide, see the 
+[Docker Video Example](https://labcit.ligo.caltech.edu/~jkanner/losc/docker-odw-2018.mov).
+
 ### Create and start the Docker container
 
 The pycbc Docker image includes most of the software needed for
