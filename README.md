@@ -43,8 +43,7 @@ to the `pycbc` software package.  This analysis package is designed to
 analyze gravitational-wave data, identify CBC signals
 and estimate their parameters.  
 
-[skymaps](./skymaps) - **Skymaps tutorials 1 and 2** introduce identifying
-the likely source locations of observed signals.
+[skymaps](./skymaps) - **Skymap tutorials 1, 2, and 3** introduce how to read in and use sky localization probability maps to help identify the likely source locations of observed signals.
 
 
 #### Topics:
