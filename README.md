@@ -29,8 +29,6 @@ data.
  * Working with segments lists and Timelines
  * Plot spectrograms to identify glitches, signals, and hardware injections
 
-
-
 ### Day 2
 
 #### Suggested tutorials:
@@ -55,7 +53,12 @@ and estimate their parameters.
 
 ## Day 3: 
 
-### Topics:
+#### Suggested Tutorials:
+
+[parameter_estimation](./parameter_estimation) **Parameter estimation tutorials** introduce how Bayesian inference is used to fit model waveforms to the data.
+
+#### Topics:
+ * Parameter estimation
  * Explore CBC workflows
  * Collaborate on individual research projects
  * Complete tutorials from days 1 and 2
