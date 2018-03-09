@@ -55,7 +55,7 @@ and estimate their parameters.
 
 #### Suggested Tutorials:
 
-[parameter_estimation](./parameter_estimation) **Parameter estimation tutorials** introduce how Bayesian inference is used to fit model waveforms to the data.
+[parameter_estimation](./parameter_estimation) - **Parameter estimation tutorials** introduce how Bayesian inference is used to fit model waveforms to the data.
 
 #### Topics:
  * Parameter estimation
