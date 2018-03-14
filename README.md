@@ -36,7 +36,7 @@ data.
 [intro](./intro) - **Introductory tutorial 3** provides an introduction
 to using matched filtering to identify CBC signals
 
-[pycbc](./pycbc) - **pycbc tutorials 1, 2, and 3** provide an introduction
+[pycbc](./pycbc) - **pycbc tutorials 1, 2, 3, and 4** provide an introduction
 to the `pycbc` software package.  This analysis package is designed to
 analyze gravitational-wave data, identify CBC signals
 and estimate their parameters.  
