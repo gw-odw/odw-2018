@@ -1,5 +1,16 @@
 # Notes to use Docker for Open Data Workshop 1
 
+## Requirements
+
+Docker should work on a wide range of operating systems, including
+Mac OS, Windows, and Linux.  It will require around 15 GB of hard-drive
+space, and may have problems on operating systems more than a few years old.
+
+## Installing Docker
+
+First, install Docker Community Eddition.  This is a free download from
+the "Docker Store": https://www.docker.com/community-edition
+
 ### Video Help
 
 For a video guide, see the 
