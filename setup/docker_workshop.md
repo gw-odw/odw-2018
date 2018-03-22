@@ -5,6 +5,8 @@
 Docker should work on a wide range of operating systems, including
 Mac OS, Windows, and Linux.  It will require around 15 GB of hard-drive
 space, and may have problems on operating systems more than a few years old.
+If you find Docker does not work well on your computer, you might instead
+try [running with either Azure or mybinder](./README.md).
 
 ## Installing Docker
 
