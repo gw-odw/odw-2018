@@ -18,6 +18,8 @@ the "Docker Store": https://www.docker.com/community-edition
 For a video guide, see the 
 [Docker Video Example](https://labcit.ligo.caltech.edu/~jkanner/losc/docker-odw-2018.mov).
 
+If working on Windows, an intro to [Docker on Windows](https://youtu.be/S7NVloq0EBc) could also help.
+
 ### Create and start the Docker container
 
 The pycbc Docker image includes most of the software needed for
