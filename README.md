@@ -33,9 +33,6 @@ data.
 
 #### Suggested tutorials:
 
-[intro](./intro) - **Introductory tutorial 3** provides an introduction
-to using matched filtering to identify CBC signals
-
 [pycbc](./pycbc) - **pycbc tutorials 1, 2, 3, and 4** provide an introduction
 to the `pycbc` software package.  This analysis package is designed to
 analyze gravitational-wave data, identify CBC signals
@@ -43,6 +40,10 @@ and estimate their parameters.
 
 [skymaps](./skymaps) - **Skymap tutorials 1, 2, and 3** introduce how to read in and use sky localization probability maps to help identify the likely source locations of observed signals.
 
+[parameter_estimation](./parameter_estimation) - **Parameter estimation tutorials** introduce how Bayesian inference is used to fit model waveforms to the data.
+
+[intro](./intro) - **Introductory tutorial 3** provides an introduction
+to using matched filtering to identify CBC signals
 
 #### Topics:
  * GW signals from compact object mergers
@@ -54,8 +55,6 @@ and estimate their parameters.
 ## Day 3: 
 
 #### Suggested Tutorials:
-
-[parameter_estimation](./parameter_estimation) - **Parameter estimation tutorials** introduce how Bayesian inference is used to fit model waveforms to the data.
 
 #### Topics:
  * Parameter estimation
