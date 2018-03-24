@@ -55,10 +55,10 @@ to using matched filtering to identify CBC signals
 ## Day 3: 
 
 #### Suggested Tutorials:
+ * Complete tutorials from days 1 and 2
 
 #### Topics:
  * Parameter estimation
  * Explore CBC workflows
  * Collaborate on individual research projects
- * Complete tutorials from days 1 and 2
  * Begin work on "more to explore" advanced excercises
