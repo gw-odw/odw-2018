@@ -39,13 +39,14 @@ nearly any operating system.  However, it requires around
  * For a short introduction to Docker, see [docker.md](./docker.md) in this
  directory.
 
-### Option 2
+### Option 2 (No software installation required!)
 
 Run the tutorials remotely using Microsoft Azure:
  * https://notebooks.azure.com/losc/libraries/odw-2018 (Requires sign-in with a free Microsoft account)
  * To run these notebooks
    * sign up for a free account
    * click the "clone" button in the above link to make a copy of the notebooks that you are free to edit, run, and are persistant.
+   * You should be brought to your fork of the tutorials and you can open them up and run directly in the browser.
 
 ### Option 3
 
