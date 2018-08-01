@@ -1,6 +1,0 @@
-#!/bin/bash
-
-pip2 install --extra-index-url https://test.pypi.org/simple/ lalsuite
-pip3 install --extra-index-url https://test.pypi.org/simple/ lalsuite
-
-pip3 install gwpy

@@ -1,2 +1,3 @@
+lalsuite
 pycbc
 gwpy
