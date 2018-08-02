@@ -2,3 +2,4 @@ numpy==1.14.5
 lalsuite
 pycbc
 gwpy
+gwosc
