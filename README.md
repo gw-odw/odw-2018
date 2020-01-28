@@ -6,6 +6,8 @@ March 25-27, 2018
 
 ## Software setup
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw-2018/master)
+
 Suggestions for accessing the required software are
 available in the [setup directory](./setup/README.md)
 

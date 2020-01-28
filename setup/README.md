@@ -6,12 +6,8 @@ Here are some hints to help you run excercises for the workshop.
 ## What software do you need?
 
 Many of these excercises use Jupyter notebooks with python
-kernals.  Where possible, the excercises are designed to work using
-python 2 or 3.  They should all work with python 2.
-
-The included notebook [check_setup.ipynb](check_setup.ipynb) can be
-used to see some of the required python packages, and to check if they
-are installed.
+kernals.  The notebooks are designed to work in python 3, using the
+[IGWN Conda Distribution](https://computing.docs.ligo.org/conda/)
 
 ## What's python?!
 
@@ -26,32 +22,27 @@ https://labcit.ligo.caltech.edu/~jkanner/losc/online_tutorial_demo.mov
 
 ## How to access the software you will need
 
-### Option 1
+### Option 1 (Requires software installation, Linux or Mac OS)
 
-Use a Docker Container:
+Use the conda IGWN distribution, following instructions on the [IGWN Conda distribution page](https://computing.docs.ligo.org/conda/)
 
-This option will allow you to install a complete software enviornment
-on you laptop.  This is a great option and should work well on
-nearly any operating system.  However, it requires around
-6 GB of harddrive space.  
 
- * For setup instructions specific to this workshop, see [docker_workshop.md](./docker_workshop.md) in this directory.
- * For a short introduction to Docker, see [docker.md](./docker.md) in this
- directory.
+### Option 2 (No software installation required!  Any OS!)
 
-### Option 2 (No software installation required!)
+Run the tutorials remotely using Google co-lab
 
-Run the tutorials remotely using Microsoft Azure:
- * https://notebooks.azure.com/losc/libraries/odw-2018 (Requires sign-in with a free Microsoft account)
- * To run these notebooks
-   * sign up for a free account
-   * click the "clone" button in the above link to make a copy of the notebooks that you are free to edit, run, and are persistant.
-   * You should be brought to your fork of the tutorials and you can open them up and run directly in the browser.
+ * Navigate to https://colab.research.google.com
+ * Select the "github" option
+ * Search for "gw-odw/gw-2018"
+ * Click on the notebook of choice to open
+ * In the first cell of each notebook, remove the comment (remove the `#`) from the line that begins `#! pip install`
+ * Run the first cell to install the software, then restart the runtime and run all cells using the menu bar at the top
 
-### Option 3
+### Option 3 (No software installation required! Any OS!)
 
-Run the tutorials remotely using mybinder:
- * https://mybinder.org/v2/gh/gw-odw/odw-2018/master
+Run the tutorials remotely using mybinder, by clicking the badge.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw-2018/master)
 
 ### Option 4
 
