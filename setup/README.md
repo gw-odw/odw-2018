@@ -33,7 +33,7 @@ Run the tutorials remotely using Google co-lab
 
  * Navigate to https://colab.research.google.com
  * Select the "github" option
- * Search for "gw-odw/gw-2018"
+ * Search for "gw-odw/odw-2018"
  * Click on the notebook of choice to open
  * In the first cell of each notebook, remove the comment (remove the `#`) from the line that begins `#! pip install`
  * Run the first cell to install the software, then restart the runtime and run all cells using the menu bar at the top
